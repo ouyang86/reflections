@@ -1,0 +1,7 @@
+new change
+#This is for lesson 1
+
+#How is the staging area different from the working directory and the repository? What value do ou thinbk it offers?
+
+#My thought is that the staging area includes files that are ready for
+commit
