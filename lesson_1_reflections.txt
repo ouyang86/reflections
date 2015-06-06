@@ -4,4 +4,19 @@ new change
 #How is the staging area different from the working directory and the repository? What value do ou thinbk it offers?
 
 #My thought is that the staging area includes files that are ready for
-commit
+
+class xiaopang(object):
+    def __init__(height, weight):
+        self.height = height
+        self.weight = weight
+        
+    def eat(food):
+        if food == 'beef':
+            self.weight += 10
+        if food == 'rice':
+            self.weight += 3
+            
+    def run(mile):
+        self.weight -= 0.5
+        
+        

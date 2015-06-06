@@ -1,1 +1,5 @@
 #This is lesson 2
+
+#How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+#I don't know about this question exactly.
