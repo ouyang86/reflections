@@ -17,6 +17,9 @@ class xiaopang(object):
             self.weight += 3
             
     def run(mile):
-        self.weight -= 0.5
+        self.weight -= mile * 0.01
+        
+    def dump(time):
+        self.weight -= time * 0.02
         
         

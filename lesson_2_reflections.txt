@@ -3,3 +3,6 @@
 #How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 #I don't know about this question exactly.
+
+class xiaoguang(object):
+    def __init__(weight, height)
